@@ -5,7 +5,7 @@ const Process = () => {
   const steps = [
     { name: "Divine Triangle Numerology", img: "https://cdn.usegalileo.ai/sdxl10/21ade379-ad72-4860-9cab-dc8d2c16e599.png" },
     { name: "Moor A.I", img: "Images/MoorAI.png" },
-    { name: "Moor Mindful", img: "Images/MM1.png", img: "moormindful.co" },
+    { name: "Moor Mindful", img: "Images/MM1.png" },
     { name: "Big Profits", img: "Images/CryptoProfit.png" },
   ];
 

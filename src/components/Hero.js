@@ -16,7 +16,7 @@ const Hero = () => {
               Hola, I'm the Digital Alchemist.
             </h1>
             <h2 className="text-white text-lg font-normal leading-normal @[480px]:text-xl @[480px]:font-normal @[480px]:leading-normal">
-              Who Jah Jah bless, may no man curse ⚡️⚡️.             </h2>
+              Let's connect ⚡️.</h2>
           </div>
         </div>
       </div>
